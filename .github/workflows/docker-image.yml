@@ -1,4 +1,4 @@
-name: docker-publish-git
+name: build-and-push-docker-image
 on:
   workflow_dispatch:
   # push:
