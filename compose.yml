@@ -1,0 +1,9 @@
+services:
+  argo-nezha-v1:
+    image: yeyunet/argo-nezha-v1:latest
+    container_name: argo-nezha-v1
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - ./dashboard/data:/dashboard/data
