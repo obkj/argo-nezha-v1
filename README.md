@@ -10,7 +10,7 @@
 1、克隆仓库并进入仓库目录
 
 ```bash
-git clone https://github.com/fxf981/argo-nezha-v1.git
+git clone https://github.com/obkj/argo-nezha-v1.git
 cd argo-nezha-v1
 ```
 
