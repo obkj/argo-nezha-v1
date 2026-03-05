@@ -1,5 +1,5 @@
 # 第一阶段：构建 Nezha 应用
-FROM ghcr.io/nezhahq/nezha AS app
+FROM ghcr.io/nezhahq/nezha:latest AS app
 
 # 第二阶段：构建最终运行环境
 FROM nginx:stable-alpine

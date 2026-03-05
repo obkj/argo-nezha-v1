@@ -1,8 +1,5 @@
 # Argo Nezha Dashboard V1
 
-本项目修改自 [yutian81/argo-nezha-v1](https://github.com/yutian81/argo-nezha-v1)
-
-
 备份和恢复脚本修改自 [fscarmen2/Argo-Nezha-Service-Container](https://github.com/fscarmen2/Argo-Nezha-Service-Container)
 
 # 部署方法
